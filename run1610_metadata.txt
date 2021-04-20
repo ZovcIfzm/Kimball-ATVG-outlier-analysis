@@ -1,0 +1,9 @@
+sample_name	library_ID	title
+merged_67243.fastq.gz	8c1ec9cce9e50359e4e5d246124d49d4 	ND rep 1 Ly6C low
+merged_67244.fastq.gz	937f6b62767f5f3e8fec6631c122299e 	ND rep 1 Ly6C high
+merged_67245.fastq.gz	5eb20285efb338b3e08eff4ec2cb9292 	ND rep 2 Ly6C low
+merged_67246.fastq.gz	308afe666d0455102a740d685af6055f 	ND rep 2 Ly6C high
+merged_67247.fastq.gz	479e454ed89713e7efa7f2f06bba4d51 	DIO rep 1 Ly6C low
+merged_67248.fastq.gz	a32fa3487b0a69189f675311dd353a26 	DIO rep 1 Ly6C high
+merged_67249.fastq.gz	5b5cce990f186636a68c3bf06d513e5d 	DIO rep 2 Ly6C low
+merged_67250.fastq.gz	61ee4e1487e3bca15fa66ec0b271a12a 	DIO rep 2 Ly6C high
