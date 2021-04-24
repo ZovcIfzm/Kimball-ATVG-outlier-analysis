@@ -130,3 +130,5 @@ dmypy.json
 
 # manual
 data
+reads
+pipeline_tools

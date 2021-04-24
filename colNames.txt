@@ -1,0 +1,9 @@
+id, cond
+DIO1HighReads, dio
+DIO1LowReads, dio
+DIO2HighReads, dio
+DIO2LowReads, dio
+ND1HighReads, nd
+ND1LowReads, nd
+ND2HighReads, nd
+NDLowReads, nd
