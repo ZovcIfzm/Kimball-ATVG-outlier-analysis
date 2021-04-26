@@ -1,1 +1,1 @@
-# Kimball-ATVG-pathway-analysis
+# Kimball-ATVG-outlier-analysis
